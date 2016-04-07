@@ -1,23 +1,51 @@
-# gtd
+# GTD
 
-## email
+## Mail
 
+### Postal
 ### Gmail
 ### PGP
 
-## calendar
+## Calendar
 
+### Desk Calendar
 ### Google Calendar
 
-## to-do
+## To-Do
 
-###
+### Lists
+### Reminders
+### Evernote
 
-## files
+## Project Management
 
+### Post-Its
+### Trello
+### Atlassian JIRA
+
+## Files
+
+### Filing Cabinet
 ### Google Docs
+### Dropbox
 
-## chat
+## Documentation
 
-## meetings
+### Library
+### Atlassian Confluence
+
+## Chat
+
+### Water Cooler
+### IRC
+### Google Chat
+### HipChat
+### Slack
+
+## Meetings
+
+### Face to Face
+### Google Hangouts
+### GoToMeeting
+### Zoom
 
